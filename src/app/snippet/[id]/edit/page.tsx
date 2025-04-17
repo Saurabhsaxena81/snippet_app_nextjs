@@ -1,5 +1,5 @@
 import EditSnippetForm from "@/components/EditSnippetForm";
-import { prisma } from "@/lib/prisma";
+import  {prisma } from "@/lib/prisma";
 import React from "react";
 
 const EditPageSnippet = async ({
